@@ -1,0 +1,7 @@
+requirements.txtpyTelegramBotAPI
+Flask
+Flask-CORS
+Werkzeug
+psutil
+python-dotenv
+gunicorn
