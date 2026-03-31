@@ -1,4 +1,4 @@
-requirements.txtpyTelegramBotAPI
+pyTelegramBotAPI
 Flask
 Flask-CORS
 Werkzeug
