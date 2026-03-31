@@ -26,7 +26,7 @@ API_TOKEN = '8730119226:AAHvEKzS2EX4RuZFlTLsaiSlnSJKIq5q2kw'
 ADMIN_ID = 8379062893
 CHANNEL_1 = "@exucodex"
 CHANNEL_2 = "@Daka_vip_1"
-WEB_URL = "https://your-custom-app.onrender.com"
+WEB_URL = "https://webaccess-8ajd.onrender.com/"
 
 # Server Folders
 BOT_TEMPLATES_DIR = "bot_templates"
